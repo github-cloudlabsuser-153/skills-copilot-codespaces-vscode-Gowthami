@@ -1,3 +1,3 @@
-git add skills.js
-git commit -m "Copilot first commit"
-git push
+function calculateNumbers(var1,var2) {
+  return var1 + var2;
+}
